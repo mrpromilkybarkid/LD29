@@ -1,0 +1,35 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1247]
+    Renderer: AMD Radeon HD 7700 Series
+    Vendor:   ATI
+    VRAM:     1010 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ben\Documents\GitHub\LD29\Project\Builds\Cave Explorer - Build 001_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ben\Documents\GitHub\LD29\Project\Builds\Cave Explorer - Build 001_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ben\Documents\GitHub\LD29\Project\Builds\Cave Explorer - Build 001_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ben\Documents\GitHub\LD29\Project\Builds\Cave Explorer - Build 001_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.208 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.660426 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 4409.
+Total: 1.355075 ms (FindLiveObjects: 0.149512 ms CreateObjectMapping: 0.018689 ms MarkObjects: 0.269170 ms  DeleteObjects: 0.024271 ms)
+
+UnloadTime: 6.118350 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6273.
+Total: 1.946813 ms (FindLiveObjects: 0.282519 ms CreateObjectMapping: 0.048542 ms MarkObjects: 0.553632 ms  DeleteObjects: 0.015048 ms)
+
+UnloadTime: 9.667565 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 7539.
+Total: 1.933464 ms (FindLiveObjects: 0.312130 ms CreateObjectMapping: 0.064804 ms MarkObjects: 0.411886 ms  DeleteObjects: 0.020873 ms)
+
